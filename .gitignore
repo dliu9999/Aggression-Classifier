@@ -1,4 +1,8 @@
 /RNN_1/vocab_win.pt
+<<<<<<< HEAD
 .*
 !.gitignore
 !.gitattributes
+=======
+/RNN_1/.vector_cache/*
+>>>>>>> 4128afed1eae61ee53a5b8d266b466c3ddbb97e3
