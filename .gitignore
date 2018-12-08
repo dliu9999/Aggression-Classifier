@@ -1,1 +1,4 @@
 /RNN_1/vocab_win.pt
+.*
+!.gitignore
+!.gitattributes
